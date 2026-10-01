@@ -91,3 +91,14 @@ Review Ppt/
 # Large CAD exchange files
 SolidWorks/ESP32-CAM-ESP32CAM+MB.step
 Vision_Based_Soldering.STEP
+
+# Documentation not included in public repository
+Poster/
+Report Folder/
+
+# Unselected prototype images
+Physical Prototype/Final Prototype/Img 3.jpg
+Physical Prototype/Final Prototype/Img 4.jpg
+Physical Prototype/Final Prototype/Img 6.jpeg
+Physical Prototype/Final Prototype/Img 7.jpeg
+Physical Prototype/Final Prototype/Img 8.jpeg
