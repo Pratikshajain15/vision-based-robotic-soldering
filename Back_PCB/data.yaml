@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['holes']
+
+roboflow:
+  workspace: rishitas-workspace-qzll4
+  project: soldering-wudmr
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rishitas-workspace-qzll4/soldering-wudmr/dataset/3
