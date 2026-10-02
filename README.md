@@ -172,7 +172,7 @@ Large datasets, trained model weights, videos, reports, presentations, team phot
 
 **Team 03 — KLE Technological University**
 
-Shahista Khatib · Pratiksha Salecha · Shreyas Kubsad · Rishita Kadam · Suchit Patil
+Pratiksha Salecha · Shahista Khatib · Shreyas Kubsad · Rishita Kadam · Suchit Patil
 
 **Guide:** Mr. Girish Karikatti
 ```
